@@ -57,6 +57,16 @@ This project demonstrates how to clean and standardize messy marketing data to p
 - Several segments were identified as high-revenue opportunities.
 - Customers with high Customer Scores can be prioritized for more efficient marketing campaigns
 
+| Customer Score | Customers | Average Revenue Per Customer |
+|--------|----------------|----------------|
+| 8 | 13 | $113,356 |
+| 7 | 826 | $4,959 |
+| 6 | 836 | $1,607 |
+| 5 | 819 | $827 |
+| 4 | 733 | $468 |
+| 3 | 528 | $450 |
+| 2 | 617 | $170 |
+
 ---
 
 ## 📓 Notebook
