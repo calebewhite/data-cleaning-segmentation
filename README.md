@@ -55,7 +55,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 - K-Means is pattern-based and reveals natural groupings that RFM misses.
 - Combining both provides a stronger understanding of customer value.
 - Several segments were identified as high-revenue opportunities.
-- Customers with high 'customer_score' can be prioritized for more efficient marketing campaigns
+- Customers with high Customer Scores can be prioritized for more efficient marketing campaigns
 
 ---
 
