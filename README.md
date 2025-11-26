@@ -7,7 +7,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 
 ## 🎯 Objectives
 - Clean and prepare a realistic customer dataset
-- Identify and fix inconsistencies, missing values, and formatting issues
+- Identify and fix inconsistencies, missing values and formatting issues
 - Build an explainable RFM segmentation model
 - Build a data-driven K-Means clustering model
 - Provide marketing recommendations based on customer segmentation
@@ -37,11 +37,11 @@ This project demonstrates how to clean and standardize messy marketing data to p
    - Created a reproducible cleaning pipeline
 
 2. **Feature Engineering**
-   - Create customer-level aggregates: `Recency`, `Frequency`, `Monetary`.
+   - Create customer-level aggregates: `Recency`, `Frequency` and `Monetary`.
 
 3. **Segmentation**
-   - **RFM Segmentation:** Assign each customer Recency, Frequency, and Monetary quartiles (1-4) and added into 'rfm_score' (3-12)
-   - **K-Means Clustering:** Clustered customers into three groups using Recency, Frequency, and Monetary features
+   - **RFM Segmentation:** Assign each customer Recency, Frequency and Monetary quartiles (1-4) and combined into 'rfm_score' (3-12)
+   - **K-Means Clustering:** Clustered customers into three groups using Recency, Frequency and Monetary features
    - **Customer Score:** Created composite score using both RFM Segmentation and K-Means Clustering
 
 4. **Validation & Comparison**
@@ -54,7 +54,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 - RFM is rule-based and business-friendly.
 - K-Means is pattern-based and reveals natural groupings that RFM misses.
 - Combining both provides a stronger understanding of customer value.
-- Several segments were identified as high-revenue opportunities.\
+- Several segments were identified as high-revenue opportunities.
 - Customers with high 'customer_score' can be prioritized for more efficient marketing campaigns
 
 ---
