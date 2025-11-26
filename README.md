@@ -15,7 +15,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 ---
 
 ## 🧾 Data
-- **Source:** [UC Irvine Online Retail Dataset]([https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign](https://archive.ics.uci.edu/dataset/352/online+retail)
+- **Source:** [UC Irvine Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 - **Size:** 541,909 records, 8 features
 - **Key Variables:** Invoice Quantity, Invoice Date, Unit Price
 
