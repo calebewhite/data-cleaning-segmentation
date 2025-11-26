@@ -40,8 +40,8 @@ This project demonstrates how to clean and standardize messy marketing data to p
    - Create customer-level aggregates: `Recency`, `Frequency` and `Monetary`.
 
 3. **Segmentation**
-   - **RFM Segmentation:** Assign each customer Recency, Frequency and Monetary quartiles (1-4) and combined into 'rfm_score' (3-12)
-   - **K-Means Clustering:** Clustered customers into three groups using Recency, Frequency and Monetary features
+   - **RFM Segmentation:** Assign each customer Recency, Frequency and Monetary quartiles (1-4) and combined into one score (3-12)
+   - **K-Means Clustering:** Clustered customers into three segments using Recency, Frequency and Monetary features
    - **Customer Score:** Created composite score using both RFM Segmentation and K-Means Clustering
 
 4. **Validation & Comparison**
