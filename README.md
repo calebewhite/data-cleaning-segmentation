@@ -31,7 +31,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 ## 🧩 Process
 
 1. **Data Cleaning**
-   - Identified missing, incorrect, inconsistent and duplicated records
+   - Identified missing, inconsistent and duplicated records
    - Standardized column names and values
    - Enforced consistent and logical data types
    - Created a reproducible cleaning pipeline
