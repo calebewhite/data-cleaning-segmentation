@@ -59,7 +59,16 @@ This project demonstrates how to clean and standardize messy marketing data to p
 
 ---
 
+## 📓 Notebook
+👉 [View the full Jupyter Notebook](notebooks/data_cleaning_segmentation.ipynb)
+
+---
 ## 🧰 Tech Stack
 Python • Scikit-learn • Pandas • Jupyter Notebook  
 
 ---
+
+## 👤 Author
+**Caleb White**  
+📫 [LinkedIn](https://linkedin.com/in/calebelwoodwhite) • [GitHub](https://github.com/calebewhite)
+
