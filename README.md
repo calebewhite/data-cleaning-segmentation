@@ -1,7 +1,7 @@
 # 🧹 Marketing Data Cleaning & Segmentation
 
 ## 📋 Overview
-This project demonstrates how to clean and standardize messy marketing data to produce actionable customer segments using RFM analysis and K-Means clustering.
+This project demonstrates how to clean and standardize messy marketing data to produce actionable customer segments using RFM segmentation and K-Means clustering.
 
 ---
 
