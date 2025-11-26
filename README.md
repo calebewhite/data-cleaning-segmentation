@@ -45,7 +45,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
    - **Customer Score:** Created composite score using both RFM Segmentation and K-Means Clustering
 
 4. **Validation & Comparison**
-   - Analyze customer profiles by RFM, K and Customer Scores (avg revenue, avg quantity, avg unit price, cancellation rate).
+   - Analyze customer profiles by RFM, K and Customer Scores.
 
 ---
 
