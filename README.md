@@ -1,11 +1,11 @@
-# 🧹 Marketing Data Cleaning & Segmentation
+# Marketing Data Cleaning & Segmentation
 
-## 📋 Overview
+## Overview
 This project demonstrates how to clean and standardize messy marketing data to produce actionable customer segments using RFM segmentation and K-Means clustering.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Clean and prepare a realistic customer dataset
 - Identify and fix inconsistencies, missing values and formatting issues
 - Build an explainable RFM segmentation model
@@ -14,21 +14,21 @@ This project demonstrates how to clean and standardize messy marketing data to p
 
 ---
 
-## 🧾 Data
+## Data
 - **Source:** [UC Irvine Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 - **Size:** 541,909 records, 8 features
 - **Key Variables:** Invoice Quantity, Invoice Date, Unit Price
 
 ---
 
-## 🛠 Tools & Methods
+## Tools & Methods
 - **Languages / Environments:** Python 
 - **Libraries:** pandas, numpy, scikit-learn 
 - **Techniques:** Data cleaning & validation, duplicate handling, standardization, RFM segmentation, K-Means clustering
 
 ---
 
-## 🧩 Process
+## Process
 
 1. **Data Cleaning**
    - Identified missing, inconsistent and duplicated records
@@ -49,7 +49,7 @@ This project demonstrates how to clean and standardize messy marketing data to p
 
 ---
 
-## 📈 Key Results
+## Key Results
 - RFM and K-Means produce valuable but fundamentally different segmentation structures.
 - RFM is rule-based and business-friendly.
 - K-Means is pattern-based and reveals natural groupings that RFM misses.
@@ -69,11 +69,11 @@ This project demonstrates how to clean and standardize messy marketing data to p
 
 ---
 
-## 📓 Notebook
-👉 [View the full Jupyter Notebook](notebooks/data_cleaning_segmentation.ipynb)
+## Notebook
+[View the full Jupyter Notebook](notebooks/data_cleaning_segmentation.ipynb)
 
 ---
-## 🧰 Tech Stack
+## Tech Stack
 Python • Scikit-learn • Pandas • Jupyter Notebook  
 
 ---
