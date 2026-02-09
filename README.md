@@ -78,7 +78,7 @@ Python • Scikit-learn • Pandas • Jupyter Notebook
 
 ---
 
-## 👤 Author
+## Author
 **Caleb White**  
-📫 [LinkedIn](https://linkedin.com/in/calebelwoodwhite) • [GitHub](https://github.com/calebewhite)
+[LinkedIn](https://linkedin.com/in/calebelwoodwhite) • [GitHub](https://github.com/calebewhite)
 
